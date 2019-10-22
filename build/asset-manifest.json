@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-build-book-app/static/css/main.4f8ded26.chunk.css",
+    "main.js": "/react-build-book-app/static/js/main.26380844.chunk.js",
+    "main.js.map": "/react-build-book-app/static/js/main.26380844.chunk.js.map",
+    "runtime-main.js": "/react-build-book-app/static/js/runtime-main.2b5a3b79.js",
+    "runtime-main.js.map": "/react-build-book-app/static/js/runtime-main.2b5a3b79.js.map",
+    "static/js/2.0f17f0d1.chunk.js": "/react-build-book-app/static/js/2.0f17f0d1.chunk.js",
+    "static/js/2.0f17f0d1.chunk.js.map": "/react-build-book-app/static/js/2.0f17f0d1.chunk.js.map",
+    "index.html": "/react-build-book-app/index.html",
+    "precache-manifest.9e8832ca753a99757e1a7f5c79e6595c.js": "/react-build-book-app/precache-manifest.9e8832ca753a99757e1a7f5c79e6595c.js",
+    "service-worker.js": "/react-build-book-app/service-worker.js",
+    "static/css/main.4f8ded26.chunk.css.map": "/react-build-book-app/static/css/main.4f8ded26.chunk.css.map",
+    "static/media/App.css": "/react-build-book-app/static/media/hourglass.ffb37f0d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b5a3b79.js",
+    "static/js/2.0f17f0d1.chunk.js",
+    "static/css/main.4f8ded26.chunk.css",
+    "static/js/main.26380844.chunk.js"
+  ]
+}
