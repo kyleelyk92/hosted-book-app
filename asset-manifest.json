@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hosted-book-app/static/css/main.4a6435b3.chunk.css",
+    "main.js": "/hosted-book-app/static/js/main.26380844.chunk.js",
+    "main.js.map": "/hosted-book-app/static/js/main.26380844.chunk.js.map",
+    "runtime-main.js": "/hosted-book-app/static/js/runtime-main.1288cc80.js",
+    "runtime-main.js.map": "/hosted-book-app/static/js/runtime-main.1288cc80.js.map",
+    "static/js/2.0f17f0d1.chunk.js": "/hosted-book-app/static/js/2.0f17f0d1.chunk.js",
+    "static/js/2.0f17f0d1.chunk.js.map": "/hosted-book-app/static/js/2.0f17f0d1.chunk.js.map",
+    "index.html": "/hosted-book-app/index.html",
+    "precache-manifest.05af769ef6d8b66184ee3d6379b76d38.js": "/hosted-book-app/precache-manifest.05af769ef6d8b66184ee3d6379b76d38.js",
+    "service-worker.js": "/hosted-book-app/service-worker.js",
+    "static/css/main.4a6435b3.chunk.css.map": "/hosted-book-app/static/css/main.4a6435b3.chunk.css.map",
+    "static/media/App.css": "/hosted-book-app/static/media/hourglass.ffb37f0d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1288cc80.js",
+    "static/js/2.0f17f0d1.chunk.js",
+    "static/css/main.4a6435b3.chunk.css",
+    "static/js/main.26380844.chunk.js"
+  ]
+}
